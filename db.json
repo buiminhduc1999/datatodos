@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "num": 1,
+      "title": "Oggy and the Cockroaches",
+      "id": "yATidRH0p4k",
+      "duration": "21:20",
+      "video": "https://www.youtube.com/embed/yATidRH0p4k"
+    },
+    {
+      "num": 2,
+      "title": "Folder structure, midware and provider",
+      "id": "ejJlnMPCmNo",
+      "duration": "13:27",
+      "video": "https://www.youtube.com/embed/ejJlnMPCmNo"
+    },
+    {
+      "num": 3,
+      "title": "Den-Ngay Khac La",
+      "id": "ayAxtbLwEJ8",
+      "duration": "3:32",
+      "video": "https://www.youtube.com/embed/ayAxtbLwEJ8"
+    },
+    {
+      "num": 4,
+      "title": "Reducers for the Home Page",
+      "id": "Jh6Abc_bJ50",
+      "duration": "08:34",
+      "video": "https://www.youtube.com/embed/Jh6Abc_bJ50"
+    },
+    {
+      "num": 5,
+      "title": "Connecting the Home Page",
+      "id": "ztHLpdVv9Vc",
+      "duration": "13:42",
+      "video": "https://www.youtube.com/embed/ztHLpdVv9Vc"
+    },
+    {
+      "num": 6,
+      "title": "Quick Recap",
+      "id": "iV5GDHY_cJk",
+      "duration": "05:50",
+      "video": "https://www.youtube.com/embed/iV5GDHY_cJk"
+    },
+    {
+      "num": 7,
+      "title": "Completing the App",
+      "id": "XMmSM0TqQ2k",
+      "duration": "16:33",
+      "video": "https://www.youtube.com/embed/XMmSM0TqQ2k"
+    },
+
+  
+  ]
+}
